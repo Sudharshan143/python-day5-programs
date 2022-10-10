@@ -9,8 +9,4 @@ for i in range(0,ele-1):
     if l1[i]<l1[i+1]:
         count=l1[i]
 print("output: ",count)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Pr
+
